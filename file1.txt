@@ -1,3 +1,7 @@
 this is file1.txt
+<<<<<<< HEAD
 this is local git.
 sankar
+=======
+changing file in github
+>>>>>>> 699b33bc5b32f7c82d03d4396afbbc9f1af7d50e
