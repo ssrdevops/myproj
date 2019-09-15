@@ -6,6 +6,12 @@ sankar
 changing file in github
 <<<<<<< HEAD
 >>>>>>> 699b33bc5b32f7c82d03d4396afbbc9f1af7d50e
+<<<<<<< Updated upstream
 =======
 second time github changes
 >>>>>>> e650d261c4a20024decb001e0fbd8fb1275bb4fc
+=======
+again
+local data
+love love love
+>>>>>>> Stashed changes
